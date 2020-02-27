@@ -8,7 +8,7 @@ You can check my Google Scholar page [here](https://scholar.google.fr/citations?
 
 ## Published papers
 
-• **Distributionally Robust Counterfactual Risk Minimization**, Louis Faury, Ugo Tanielian, Elena Smirnova, Flavian Vasile, Elvis Dohmatob, *(to appear in) Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence*, 2020.<br/>
+• **Distributionally Robust Counterfactual Risk Minimization**, Louis Faury, Ugo Tanielian, Elena Smirnova, Flavian Vasile, Elvis Dohmatob, *Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence*, 2020.<br/>
 (<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/pdf/1906.06211) || <i class="fas fa-file-pdf" style="font-size: 0.73em;"></i> [pdf](/_papers/dro_crm_aaai.pdf) || <i class="fas fa-file-powerpoint"  style="font-size: 0.73em;"></i> [slides](/_papers/dro_crm_slides.pdf) ||  <i class="fas fa-chart-line"  style="font-size: 0.73em;"></i> [poster](/_papers/dro_crm_poster.pdf))
 
 • **Benchmarking GNN-CMA-ES on the BBOB noiseless testbed**, Louis Faury, Clément Calauzènes, Olivier Fercoq, *Proceedings of the Genetic and Evolutionary Computation Conference Companion*, 2019.<br/>
