@@ -19,7 +19,9 @@ You can check my Google Scholar page [here](https://scholar.google.fr/citations?
 
 ## arXiv
 
-• **Improving Evolutionary Strategies with Generative Neural Networks**, Louis Faury, Clément Calauzenes, Olivier Fercoq. <br/>(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/abs/1901.11271))
+• **Improved Optimistic Algorithms for Logistic Bandits**, Louis Faury, Marc Abeille, Clément Calauzènes, Olivier Fercoq. <br/>(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/abs/2002.07530))
+
+• **Improving Evolutionary Strategies with Generative Neural Networks**, Louis Faury, Clément Calauzènes, Olivier Fercoq. <br/>(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/abs/1901.11271))
 
 • **Neural Generative Models for Global Optimization with Gradients**, Louis Faury, Flavian Vasile, Clément Calauzènes, Olivier Fercoq. <br/>(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/abs/1805.08594))
 
