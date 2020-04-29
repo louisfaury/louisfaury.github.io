@@ -14,4 +14,4 @@ I graduated from Ecole Polytechnique in 2018 where I studied optimal control and
 • Sub-reviewer for Flavian Vasile and Marc Abeille at *ICML 2019* (2 papers).
 
 ### Contact
-You can reach me at [at this email adress](l.faury@criteo.com).
+You can reach me at <a href = "mailto: l.faury@criteo.com">this email address.</a>
