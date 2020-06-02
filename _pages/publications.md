@@ -8,6 +8,8 @@ You can check my Google Scholar page [here](https://scholar.google.fr/citations?
 
 ## Published papers
 
+• **Improved Optimistic Algorithms for Logistic Bandits**, Louis Faury, Marc Abeille, Clément Calauzènes, Olivier Fercoq, *International Conference of Machine Learning (ICML)*, 2020. <br/>(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/abs/2002.07530))
+
 • **Distributionally Robust Counterfactual Risk Minimization**, Louis Faury, Ugo Tanielian, Elena Smirnova, Flavian Vasile, Elvis Dohmatob, *Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence*, 2020.<br/>
 (<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/pdf/1906.06211) || <i class="fas fa-file-pdf" style="font-size: 0.73em;"></i> [pdf](/_papers/dro_crm_aaai.pdf) || <i class="fas fa-file-powerpoint"  style="font-size: 0.73em;"></i> [slides](/_papers/dro_crm_slides.pdf) ||  <i class="fas fa-chart-line"  style="font-size: 0.73em;"></i> [poster](/_papers/dro_crm_poster.pdf))
 
@@ -18,8 +20,6 @@ You can check my Google Scholar page [here](https://scholar.google.fr/citations?
 (<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/abs/1801.07222) || <i class="fas fa-link" style="font-size: 0.73em;"></i> [link](https://link.springer.com/chapter/10.1007/978-3-030-05348-2_24))
 
 ## arXiv
-
-• **Improved Optimistic Algorithms for Logistic Bandits**, Louis Faury, Marc Abeille, Clément Calauzènes, Olivier Fercoq. <br/>(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/abs/2002.07530))
 
 • **Improving Evolutionary Strategies with Generative Neural Networks**, Louis Faury, Clément Calauzènes, Olivier Fercoq. <br/>(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/abs/1901.11271))
 
