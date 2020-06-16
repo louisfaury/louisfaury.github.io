@@ -8,7 +8,8 @@ You can check my Google Scholar page [here](https://scholar.google.fr/citations?
 
 ## Published papers
 
-• **Improved Optimistic Algorithms for Logistic Bandits**, Louis Faury, Marc Abeille, Clément Calauzènes, Olivier Fercoq, *International Conference of Machine Learning (ICML)*, 2020. <br/>(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/abs/2002.07530))
+• **Improved Optimistic Algorithms for Logistic Bandits**, Louis Faury, Marc Abeille, Clément Calauzènes, Olivier Fercoq, *International Conference of Machine Learning (ICML)*, 2020. <br/>
+(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/abs/2002.07530)) || <i class="fas fa-file-pdf" style="font-size: 0.73em;"></i> [pdf](/_papers/icml_logistic_bandit_paper.pdf) || <i class="fas fa-file-powerpoint"  style="font-size: 0.73em;"></i> [slides](/_papers/icml_logistic_bandit_slides.pdf))
 
 • **Distributionally Robust Counterfactual Risk Minimization**, Louis Faury, Ugo Tanielian, Elena Smirnova, Flavian Vasile, Elvis Dohmatob, *Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence*, 2020.<br/>
 (<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/pdf/1906.06211) || <i class="fas fa-file-pdf" style="font-size: 0.73em;"></i> [pdf](/_papers/dro_crm_aaai.pdf) || <i class="fas fa-file-powerpoint"  style="font-size: 0.73em;"></i> [slides](/_papers/dro_crm_slides.pdf) ||  <i class="fas fa-chart-line"  style="font-size: 0.73em;"></i> [poster](/_papers/dro_crm_poster.pdf))
