@@ -9,6 +9,7 @@ I am a PhD student at [Criteo AI Labs](https://ailab.criteo.com) and [LTCI lab](
 I graduated from Ecole Polytechnique in 2018 where I studied optimal control and statistics. I also got a master's degree (MsC) at EPFL in artificial intelligence and machine learning. 
 
 ## Reviewing Activity 
+• Sub-reviewer for Marc Abeille at *NeurIPS 2020* (2 papers). <br/>
 • Reviewer at *ICML 2020* (6 papers).<br/>
 • Sub-reviewer for Marc Abeille at *AISTATS 2020* (1 paper).<br/>
 • Sub-reviewer for Flavian Vasile and Marc Abeille at *ICML 2019* (2 papers).
