@@ -23,6 +23,11 @@ Louis Faury, Marc Abeille, Clément Calauzènes, Olivier Fercoq.<br/>
 
 
 ## <span style="color:red">Workshop Papers</span>
+• **Improving Offline Contextual Bandits with Distributional Robustness**,<br/>
+Otmane Sahki, Louis Faury, Flavian Vasile.<br/>
+*REVEAL Workshop, RecSys'20*.<br/>
+(<i class="fas fa-file-pdf" style="font-size: 0.73em;"></i> [pdf](/_papers/dro_reveal.pdf))
+
 • **Benchmarking GNN-CMA-ES on the BBOB noiseless testbed**.<br/>
  Louis Faury, Clément Calauzènes, Olivier Fercoq.<br/>
  *Proceedings of the Genetic and Evolutionary Computation Conference Companion*, 2019.<br/>
