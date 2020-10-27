@@ -34,6 +34,7 @@ Otmane Sahki, Louis Faury, Flavian Vasile.<br/>
 (<i class="fas fa-link" style="font-size: 0.73em;"></i> [link](https://dl.acm.org/citation.cfm?id=3326856) || <i class="fas fa-file-powerpoint"  style="font-size: 0.73em;"></i> [slides](/_papers/gnnes_slides.pdf))
 
 ## <span style="color:red">Preprints
+• **Instance-Wise Minimax-Optimal Algorithms for Logistic Bandits**, Marc Abeille, Louis Faury, Clément Calauzènes. <br/>(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/pdf/2010.12642.pdf))
 
 • **Improving Evolutionary Strategies with Generative Neural Networks**, Louis Faury, Clément Calauzènes, Olivier Fercoq. <br/>(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/abs/1901.11271))
 
