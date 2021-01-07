@@ -6,6 +6,10 @@ title: "Publications"
 
 ## <span style="color:red">Conference Papers</span>
 
+• **Optimal Regret Bounds for Generalized Linear Bandits under Parameter Drift**.<br/>
+Louis Faury, Yoan Russac, Marc Abeille, Clément Calauzènes.<br/>
+ *International Conference on Algorithmic Learning Theory (ALT)*, 2021. <br/>
+
 • **Improved Optimistic Algorithms for Logistic Bandits**.<br/>
 Louis Faury, Marc Abeille, Clément Calauzènes, Olivier Fercoq.<br/>
  *International Conference of Machine Learning (ICML)*, 2020. <br/>
