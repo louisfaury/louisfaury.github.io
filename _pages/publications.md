@@ -6,9 +6,20 @@ title: "Publications"
 
 ## <span style="color:red">Conference Papers</span>
 
+• **Instance-Wise Minimax-Optimal Algorithms for Logistic Bandits**, <br/>
+Marc Abeille, Louis Faury, Clément Calauzènes. <br/>
+*International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2021. <br/>
+(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/pdf/2010.12642.pdf))
+
+• **Self-Concordant Analysis of Generalized Linear Bandits with Forgetting** <br/>
+ Yoan Russac, Louis Faury, Olivier Cappé, Aurélien Garivier. <br/>
+ *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2021. <br/>
+(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/abs/2011.00819))
+
 • **Optimal Regret Bounds for Generalized Linear Bandits under Parameter Drift**.<br/>
 Louis Faury, Yoan Russac, Marc Abeille, Clément Calauzènes.<br/>
  *International Conference on Algorithmic Learning Theory (ALT)*, 2021. <br/>
+ (<i class="fas fa-file-pdf" style="font-size: 0.73em;"></i> [pdf](/_papers/budget_glb_alt.pdf))
 
 • **Improved Optimistic Algorithms for Logistic Bandits**.<br/>
 Louis Faury, Marc Abeille, Clément Calauzènes, Olivier Fercoq.<br/>
@@ -38,9 +49,6 @@ Otmane Sahki, Louis Faury, Flavian Vasile.<br/>
 (<i class="fas fa-link" style="font-size: 0.73em;"></i> [link](https://dl.acm.org/citation.cfm?id=3326856) || <i class="fas fa-file-powerpoint"  style="font-size: 0.73em;"></i> [slides](/_papers/gnnes_slides.pdf))
 
 ## <span style="color:red">Preprints
-• **Instance-Wise Minimax-Optimal Algorithms for Logistic Bandits**, Marc Abeille, Louis Faury, Clément Calauzènes. <br/>(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/pdf/2010.12642.pdf))
-
-• **Self-Concordant Analysis of Generalized Linear Bandits with Forgetting**, Yoan Russac, Louis Faury, Olivier Cappé, Aurélien Garivier. <br/>(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/abs/2011.00819))
 
 • **Improving Evolutionary Strategies with Generative Neural Networks**, Louis Faury, Clément Calauzènes, Olivier Fercoq. <br/>(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/abs/1901.11271))
 
