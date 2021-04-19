@@ -9,7 +9,7 @@ title: "Publications"
 • **Instance-Wise Minimax-Optimal Algorithms for Logistic Bandits**, <br/>
 Marc Abeille, Louis Faury, Clément Calauzènes. <br/>
 *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2021. <br/>
-(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/pdf/2010.12642.pdf))
+(<i class="fas fa-archive" style="font-size: 0.73em;"></i> [arXiv](https://arxiv.org/pdf/2010.12642.pdf) || <i class="fas fa-file-powerpoint"  style="font-size: 0.73em;"></i> [slides](/_papers/iw.pdf) ||  <i class="fas fa-chart-line"  style="font-size: 0.73em;"></i> [poster](/_papers/iw_poster_.pdf))
 
 • **Self-Concordant Analysis of Generalized Linear Bandits with Forgetting** <br/>
  Yoan Russac, Louis Faury, Olivier Cappé, Aurélien Garivier. <br/>
